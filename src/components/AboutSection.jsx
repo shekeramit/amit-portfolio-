@@ -20,7 +20,7 @@ const AboutSection = () => {
             typewriterText="I am WebDevloper"
             image={Profile2}
             buttontext="Contact Me"
-            paragraph="A Web Developer who build's Responsive websites & exploring new web design's. Highly skilled in HTML, CSS, Javascript and working knowledge of JavaScript, React and Node Js. Learning Advances JavaScript and ReactJs."
+            paragraph="A Web Developer who build's Responsive websites & exploring new web design's. Highly skilled in HTML, CSS, Javascript and working knowledge of JavaScript, React, Node Js, MySql and MongoDB. Learning Advances JavaScript and ReactJs."
           />
         </div>
         <div className="p-4">
